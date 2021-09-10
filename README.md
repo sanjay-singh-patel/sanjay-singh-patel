@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![sanjay-singh-patel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanjay-singh-patel&theme=xcode)](https://git.io/sanjay-singh-patel)
 <!--
 **sanjay-singh-patel/sanjay-singh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
