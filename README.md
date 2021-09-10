@@ -10,7 +10,7 @@
 </a>
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m pursuing my Bachelors in Computer Science & Engineering. </br>
 
 ![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-singh-patel&show_icons=true&hide_border=true)
 <br />
