@@ -8,7 +8,9 @@
 <a href="mailto:sanjupatel11112000@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 </br>
+
 ### About Me 🚀
 🎓 I’m pursuing my Bachelors in Computer Science & Engineering. </br>
 
