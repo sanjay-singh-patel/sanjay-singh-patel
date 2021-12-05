@@ -49,7 +49,7 @@ I'm currently into Data Analaysis, also spent some time on web development and o
 
 <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b>Windows 11, Ubuntu 20.04 </li>
 	    <li><b>Laptop: </b> HP Notebook (i3)</li>
   	    <li><b>Browser: </b> Brave Browser</li>
 	    <li><b>Code Editor:</b> VSCode </li>
