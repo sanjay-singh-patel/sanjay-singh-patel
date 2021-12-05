@@ -1,37 +1,62 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/sanjay-singh-patel/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/sanjay_s_patel">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:sanjupatel11112000@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+## Hey 👋, I'm [Sanjay Singh Patel!](https://github.com/sanjay-singh-patel/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sanjay-singh-patel)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sanjay-singh-patel.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sanjay_s_patel)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sanjay_singh_patel/)
 </br>
 
-### About Me 🚀
-🎓 I’m pursuing my Bachelors in Computer Science & Engineering. </br>
-
-![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-singh-patel&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjay-singh-patel.sanjay-singh-patel)
+### Glad to see you here! &nbsp;![](https://visitor-badge.laobi.icu/badge?page_id=sanjay-singh-patel.sanjay-singh-patel)
 ![](https://gitwar.herokuapp.com/badge?username=sanjay-singh-patel)
 
 
-[![sanjay-singh-patel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanjay-singh-patel&theme=xcode)](https://git.io/sanjay-singh-patel)
-<!--
-**sanjay-singh-patel/sanjay-singh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me 🚀
+I’m pursuing my Bachelors 🎓 in Computer Science & Engineering 👨🏻‍💻 from Rajiv Gandhi Proudyogiki Vishwavidyalaya 🏛️. <br>
+I'm currently into Data Analaysis, also spent some time on web development and obviously DSA 💣.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=sanjay-singh-patel&show_icons=true&hide_border=true)</br>
+
+[![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanjay-singh-patel&theme=xcode)](https://git.io/sanjay-singh-patel)
+
+### I litte about me:
+
+- 🛠 &nbsp; I’m currently working with Django.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 💬 &nbsp; Ask me about anything on my social media or [here](https://github.com/sanjay-singh-patel/sanjay-singh-patel/issues/)!
+- 📫 &nbsp; How to reach me: sanjupatel11112000@gmail.com.
+
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/sanjay-singh-patel/sanjay-singh-patel/resume.pdf). -->
+
+### My Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🌠 &nbsp; Learning about space exploration.
+- 🌆 &nbsp;I also love to travel.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+<summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Notebook (i3)</li>
+  	    <li><b>Browser: </b> Brave Browser</li>
+	    <li><b>Code Editor:</b> VSCode </li>
+	  </ul>	
+
+
+
+
+
+
