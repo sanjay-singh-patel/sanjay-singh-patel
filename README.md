@@ -17,6 +17,8 @@
 ![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-singh-patel&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjay-singh-patel.sanjay-singh-patel)
+![](https://gitwar.herokuapp.com/badge?username=sanjay-singh-patel)
+
 
 [![sanjay-singh-patel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanjay-singh-patel&theme=xcode)](https://git.io/sanjay-singh-patel)
 <!--
