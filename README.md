@@ -7,8 +7,6 @@
 </br>
 
 ### Glad to see you here! &nbsp;![](https://visitor-badge.laobi.icu/badge?page_id=sanjay-singh-patel.sanjay-singh-patel)
-![](https://gitwar.herokuapp.com/badge?username=sanjay-singh-patel)
-
 
 
 ### About Me 🚀
