@@ -54,9 +54,8 @@ I'm currently into Data Analaysis, also spent some time on web development and o
 	  </ul>	
 	  
   <details>
-<summary>More Details</summary>
-<br>
-![Metrics](https://metrics.lecoq.io/sanjay-singh-patel?template=classic&config.timezone=Asia%2FCalcutta)
 
-</details>
+	<br>
+![Metrics] (https://metrics.lecoq.io/sanjay-singh-patel?template=classic&config.timezone=Asia%2FCalcutta)
+
 
