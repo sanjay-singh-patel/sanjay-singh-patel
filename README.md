@@ -53,9 +53,6 @@ I'm currently into Data Analaysis, also spent some time on web development and o
 	    <li><b>Code Editor:</b> VSCode </li>
 	  </ul>	
 	  
-  <details>
-
-	<br>
-![Metrics] (https://metrics.lecoq.io/sanjay-singh-patel?template=classic&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/sanjay-singh-patel?template=classic&config.timezone=Asia%2FCalcutta)
 
 
