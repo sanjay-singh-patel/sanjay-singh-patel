@@ -10,8 +10,8 @@
 
 
 ### About Me 🚀
-I’m pursuing my Bachelors 🎓 in Computer Science & Engineering 👨🏻‍💻 from Rajiv Gandhi Proudyogiki Vishwavidyalaya 🏛️. <br>
-I'm currently into Data Analaysis, also spent some time on web development and obviously DSA 💣.</br>
+I’m a Computer Science & Engineer 👨🏻‍💻 from Rajiv Gandhi Proudyogiki Vishwavidyalaya 🏛️. <br>
+I'm a software developer and a data analyst 💣.</br>
 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sanjay-singh-patel&show_icons=true&hide_border=true)</br>
