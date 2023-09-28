@@ -23,7 +23,7 @@ I'm a software developer and a data analyst 💣.</br>
 - 🛠 &nbsp; I’m currently working with Django.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything on my social media or [here](https://github.com/sanjay-singh-patel/sanjay-singh-patel/issues/)!
-- 📫 &nbsp; How to reach me: sanjupatel11112000@gmail.com.
+- 📫 &nbsp; How to reach me: sanj.singh.p@gmail.com.
 
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/sanjay-singh-patel/sanjay-singh-patel/resume.pdf). -->
 
