@@ -10,7 +10,7 @@
 
 
 ### About Me 🚀
-I’m a Computer Science & Engineer 👨🏻‍💻 currenty working at [JIO](https://jio.com) . <br>
+I’m a Computer Science & Engineer 👨🏻‍💻 currenty working at [Axis Bank](https://www.axisbank.com). <br>
 I'm a software developer and a data analyst 💣.</br>
 
 
